@@ -25,3 +25,4 @@ class Solution {
         // Convert the StringBuilder to a String and return it
         return fancyString.toString();
     }
+}
