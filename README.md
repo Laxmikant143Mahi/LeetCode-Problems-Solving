@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2554-minimum-total-distance-traveled) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1940-maximum-xor-for-each-query) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3291-find-if-array-can-be-sorted) |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3394-minimum-array-end) |
 ## Hash Table
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0160-intersection-of-two-linked-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 <!---LeetCode Topics End-->
