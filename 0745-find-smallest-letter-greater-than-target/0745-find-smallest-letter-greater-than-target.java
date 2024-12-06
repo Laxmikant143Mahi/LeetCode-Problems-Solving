@@ -7,7 +7,7 @@ class Solution {
         // Perform binary search to find the smallest letter greater than target
         while (start < end) {
             // Calculate the mid point to split the search into halves
-            int mid = (start + end) >>> 1; // Using unsigned shift for safe mid calculation
+            int mid = start + (end-start)/2; // Using unsigned shift for safe mid calculation
           
             // If the middle letter is greater than the target
             if (letters[mid] > target) {
