@@ -10,16 +10,14 @@ class Solution {
                 
             }else if(nums1[ptr1] > nums2[ptr2]){
                 ptr2++;
-                continue;
 
             }
             else if(nums1[ptr1]<nums2[ptr2]){
                 ptr1++;
-                continue;
+        
             }
-            ptr1++;
-            ptr2++;
         }
+           
         return -1;
     }
 }
