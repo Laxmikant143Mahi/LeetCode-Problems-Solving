@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1086-divisor-game](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1086-divisor-game) |
+| [1764-maximum-repeating-substring](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1764-maximum-repeating-substring) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2164-two-best-non-overlapping-events](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2554-minimum-total-distance-traveled](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2554-minimum-total-distance-traveled) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1764-maximum-repeating-substring](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1764-maximum-repeating-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2580-circular-sentence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2580-circular-sentence) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0812-rotate-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0812-rotate-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1764-maximum-repeating-substring](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1764-maximum-repeating-substring) |
 ## Bit Manipulation
 |  |
 | ------- |
