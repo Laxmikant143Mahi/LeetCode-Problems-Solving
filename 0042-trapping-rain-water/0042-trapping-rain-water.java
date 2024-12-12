@@ -1,32 +1,31 @@
 class Solution {
     public int trap(int[] height) {
-        
-        int n = height.length;
+        int n = height.length; // Length of the input array
+        int maxRight = 0, maxLeft = 0; // Variables to store the maximum heights seen so far from left and right
+        int left = 0, right = n - 1; // Two pointers, one starting from the left and the other from the right
+        int ans = 0; // Variable to store the total amount of trapped water
 
-
-        int left[] = new int[n];
-        int right[] = new int[n];
-
-        
-
-        left[0] = height[0];
-        for(int i=1; i<n; i++){
-
-            left[i] = Math.max(left[i-1],height[i]);
+        // While the two pointers do not cross each other
+        while (left < right) {
+            // If the height at the left pointer is less than or equal to the height at the right pointer
+            if (height[left] <= height[right]) {
+                // Update the maximum height on the left
+                maxLeft = Math.max(maxLeft, height[left]);
+                // Add the water trapped at this index to the total
+                ans += maxLeft - height[left];
+                // Move the left pointer to the right
+                left++;
+            } else {
+                // If the height at the right pointer is less than the height at the left pointer
+                // Update the maximum height on the right
+                maxRight = Math.max(maxRight, height[right]);
+                // Add the water trapped at this index to the total
+                ans += maxRight - height[right];
+                // Move the right pointer to the left
+                right--;
+            }
         }
 
-        right[n-1] = height[n-1];
-        for(int i=n-2; i>=0; i--) {
-
-            right[i] = Math.max(right[i+1],height[i]);
-        }
-
-        int water = 0;
-
-        for(int i=0; i<n; i++){
-
-            water+=Math.min(left[i],right[i])-height[i];
-        }
-        return water;
+        return ans; // Return the total trapped water
     }
 }
