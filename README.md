@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0455-assign-cookies](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0890-lemonade-change) |
+| [1448-maximum-69-number](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1448-maximum-69-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1961-maximum-ice-cream-bars) |
 | [2089-maximum-matrix-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2089-maximum-matrix-sum) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0029-divide-two-integers](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0029-divide-two-integers) |
 | [1086-divisor-game](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1086-divisor-game) |
+| [1448-maximum-69-number](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1448-maximum-69-number) |
 | [2716-prime-subtraction-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2716-prime-subtraction-operation) |
 ## Number Theory
 |  |
