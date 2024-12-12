@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1137-height-checker](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1137-height-checker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0016-3sum-closest) |
 | [0229-majority-element-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0455-assign-cookies) |
+| [1137-height-checker](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1137-height-checker) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2164-two-best-non-overlapping-events](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2164-two-best-non-overlapping-events) |
@@ -287,5 +289,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [1137-height-checker](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1137-height-checker) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 <!---LeetCode Topics End-->
