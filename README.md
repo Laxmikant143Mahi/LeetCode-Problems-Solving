@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -319,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1137-height-checker) |
 | [1961-maximum-ice-cream-bars](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1961-maximum-ice-cream-bars) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
