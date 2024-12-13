@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0055-jump-game) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0032-longest-valid-parentheses](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0812-rotate-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0812-rotate-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0143-reorder-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0143-reorder-list) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
