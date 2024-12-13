@@ -1,31 +1,40 @@
-import java.util.Arrays;
-
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
+        // Ensure nums1 is the smaller array
+        if (nums1.length > nums2.length) {
+            return findMedianSortedArrays(nums2, nums1);
+        }
+
         int n = nums1.length;
         int m = nums2.length;
-        int[] merged = new int[n + m];
+        int low = 0, high = n;
+
+        while (low <= high) {
+            int partition1 = (low + high) / 2;
+            int partition2 = (n + m + 1) / 2 - partition1;
+
+            int nums1LeftMax = (partition1 == 0) ? Integer.MIN_VALUE : nums1[partition1 - 1];
+            int nums1RightMin = (partition1 == n) ? Integer.MAX_VALUE : nums1[partition1];
+
+            int nums2LeftMax = (partition2 == 0) ? Integer.MIN_VALUE : nums2[partition2 - 1];
+            int nums2RightMin = (partition2 == m) ? Integer.MAX_VALUE : nums2[partition2];
+
+            if (nums1LeftMax <= nums2RightMin && nums2LeftMax <= nums1RightMin) {
+                // Correct partition found
+                if ((n + m) % 2 == 0) {
+                    return (Math.max(nums1LeftMax, nums2LeftMax) + Math.min(nums1RightMin, nums2RightMin)) / 2.0;
+                } else {
+                    return Math.max(nums1LeftMax, nums2LeftMax);
+                }
+            } else if (nums1LeftMax > nums2RightMin) {
+                // Move left in nums1
+                high = partition1 - 1;
+            } else {
+                // Move right in nums1
+                low = partition1 + 1;
+            }
+        }
+        return 0;
         
-        // Merge nums1 and nums2 into the merged array
-        for (int i = 0; i < nums1.length; i++) {
-            merged[i] = nums1[i];
-        }
-        for (int i = 0; i < nums2.length; i++) {
-            merged[n + i] = nums2[i];
-        }
-
-        // Sort the merged array
-        Arrays.sort(merged);
-
-        // Calculate the median
-        double median;
-        int len = merged.length;
-        if (len % 2 == 0) {
-            median = (merged[len / 2 - 1] + merged[len / 2]) / 2.0;
-        } else {
-            median = merged[len / 2];
-        }
-
-        return median;
     }
 }
