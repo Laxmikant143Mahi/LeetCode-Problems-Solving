@@ -14,16 +14,19 @@ class Solution {
         int maxFreq=0;
 
         for(Map.Entry<Integer,Integer> entry : map.entrySet()){
-
-            maxFreq = Math.max(maxFreq,entry.getValue());
-        }
-        for(Map.Entry<Integer,Integer> entry : map.entrySet()){
-
-            if(entry.getValue()==maxFreq){
+            
+            if(entry.getValue()>maxFreq){
+                count=0;
+                maxFreq = entry.getValue();
                 count+=entry.getValue();
             }
+            else if(entry.getValue()==maxFreq){
+                count+=entry.getValue();
+            }
+            
         }
         return count;
+        
 
     }
 }
