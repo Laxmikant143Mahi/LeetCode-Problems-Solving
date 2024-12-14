@@ -363,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0904-leaf-similar-trees) |
 ## Depth-First Search
 |  |
@@ -371,5 +372,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0904-leaf-similar-trees) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
