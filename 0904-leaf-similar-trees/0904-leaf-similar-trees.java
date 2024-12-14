@@ -1,28 +1,36 @@
 class Solution {
-  public boolean leafSimilar(TreeNode root1, TreeNode root2) {
-    List<Integer> leaves1 = new ArrayList<>();
-    List<Integer> leaves2 = new ArrayList<>();
 
-    // Perform DFS for both trees to collect leaf values
-    dfs(root1, leaves1);
-    dfs(root2, leaves2);
+    // Helper method to collect leaf nodes iteratively
+    private void collectLeafNodes(TreeNode node, ArrayList<Integer> leafList) {
+        if (node == null) {
+            return;
+        }
 
-    // Compare the leaf values of both trees
-    return leaves1.equals(leaves2);
-  }
+        // If it's a leaf node (no children), add it to the list
+        if (node.left == null && node.right == null) {
+            leafList.add(node.val);
+            return;
+        }
 
-  // Helper DFS function to collect leaf nodes
-  public void dfs(TreeNode node, List<Integer> leaves) {
-    if (node == null) return;
-
-    // If it's a leaf node, add its value to the list
-    if (node.left == null && node.right == null) {
-      leaves.add(node.val);
-      return;
+        // Traverse the left and right children
+        collectLeafNodes(node.left, leafList);
+        collectLeafNodes(node.right, leafList);
     }
 
-    // Recursively traverse the left and right subtrees
-    dfs(node.left, leaves);
-    dfs(node.right, leaves);
-  }
+    public boolean leafSimilar(TreeNode root1, TreeNode root2) {
+        // Create two lists to hold the leaf nodes of each tree
+        ArrayList<Integer> list1 = new ArrayList<>();
+        ArrayList<Integer> list2 = new ArrayList<>();
+
+        // Collect leaf nodes for both trees
+        collectLeafNodes(root1, list1);
+        collectLeafNodes(root2, list2);
+
+        // If the sizes of the lists are different, return false
+        if (list1.size() != list2.size()) {
+            return false;
+        }
+
+        return list1.equals(list2);
+    }
 }
