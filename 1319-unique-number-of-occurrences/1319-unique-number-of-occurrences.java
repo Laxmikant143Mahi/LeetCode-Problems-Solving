@@ -1,21 +1,25 @@
+import java.util.HashMap;
+import java.util.HashSet;
+
 class Solution {
     public boolean uniqueOccurrences(int[] arr) {
         
-        HashMap<Integer,Integer> map = new HashMap<>();
-
-        int n = arr.length;
-
-        for(int i=0; i<n; i++)
-            map.put(arr[i],map.getOrDefault(arr[i],0)+1);
+        // Step 1: Count the occurrences of each element using a HashMap
+        HashMap<Integer, Integer> map = new HashMap<>();
+        for (int num : arr) {
+            map.put(num, map.getOrDefault(num, 0) + 1);
+        }
         
-        int a[] = new int[1001];
-        for(Map.Entry<Integer,Integer> entry : map.entrySet()){
-            if(a[entry.getValue()] !=0){
+        // Step 2: Use a HashSet to track unique occurrence counts
+        HashSet<Integer> set = new HashSet<>();
+        for (int count : map.values()) {
+            // If an occurrence count is already in the set, return false
+            if (!set.add(count)) {
                 return false;
             }
-
-            a[entry.getValue()] =1;
         }
+        
+        // Step 3: If all occurrence counts are unique, return true
         return true;
     }
 }
