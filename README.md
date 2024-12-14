@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1137-height-checker](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1137-height-checker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1319-unique-number-of-occurrences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0229-majority-element-ii) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1319-unique-number-of-occurrences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
