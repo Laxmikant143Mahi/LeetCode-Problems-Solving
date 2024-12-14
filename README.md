@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1764-maximum-repeating-substring](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1764-maximum-repeating-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1755-defuse-the-bomb](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1755-defuse-the-bomb) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
