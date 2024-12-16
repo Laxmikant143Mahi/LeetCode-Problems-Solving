@@ -15,7 +15,7 @@ class Solution {
             
         
         for(int i=0; i<n; i++){
-            if(nums[i]!=maxElement && !(maxElement>=2*nums[i])){
+            if(nums[i]!=maxElement && !(maxElement>=nums[i]<<1)){
                 return -1;
             }
         }
