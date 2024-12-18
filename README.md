@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1833-find-the-highest-altitude) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [1940-maximum-xor-for-each-query](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1940-maximum-xor-for-each-query) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1961-maximum-ice-cream-bars](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1961-maximum-ice-cream-bars) |
 | [1972-rotating-the-box](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2089-maximum-matrix-sum) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1448-maximum-69-number](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1448-maximum-69-number) |
+| [1950-sign-of-the-product-of-an-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2716-prime-subtraction-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2716-prime-subtraction-operation) |
 | [2722-prime-in-diagonal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2722-prime-in-diagonal) |
