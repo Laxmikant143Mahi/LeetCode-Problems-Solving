@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2716-prime-subtraction-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2716-prime-subtraction-operation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Number Theory
 |  |
 | ------- |
