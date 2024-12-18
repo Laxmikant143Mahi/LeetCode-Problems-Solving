@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1961-maximum-ice-cream-bars) |
 | [2089-maximum-matrix-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2089-maximum-matrix-sum) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2164-two-best-non-overlapping-events](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2179-most-beautiful-item-for-each-query) |
+| [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2554-minimum-total-distance-traveled](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2554-minimum-total-distance-traveled) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2566-number-of-unequal-triplets-in-array) |
