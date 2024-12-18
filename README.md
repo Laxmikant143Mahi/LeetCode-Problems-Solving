@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2699-count-the-number-of-fair-pairs](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2716-prime-subtraction-operation) |
+| [2722-prime-in-diagonal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2722-prime-in-diagonal) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2868-continuous-subarrays) |
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2722-prime-in-diagonal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2722-prime-in-diagonal) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
 |  |
@@ -326,12 +328,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1448-maximum-69-number) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2716-prime-subtraction-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2716-prime-subtraction-operation) |
+| [2722-prime-in-diagonal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2722-prime-in-diagonal) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Number Theory
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2716-prime-subtraction-operation) |
+| [2722-prime-in-diagonal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2722-prime-in-diagonal) |
 ## Stack
 |  |
 | ------- |
