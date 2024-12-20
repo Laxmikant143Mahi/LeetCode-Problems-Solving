@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0787-sliding-puzzle](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
@@ -454,12 +455,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0904-leaf-similar-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0904-leaf-similar-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0904-leaf-similar-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -467,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0904-leaf-similar-trees) |
+| [2493-reverse-odd-levels-of-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
