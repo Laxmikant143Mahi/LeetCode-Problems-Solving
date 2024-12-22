@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0045-jump-game-ii) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0345-reverse-vowels-of-a-string) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
