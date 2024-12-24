@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
+| [0747-min-cost-climbing-stairs](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0787-sliding-puzzle](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0792-binary-search) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0198-house-robber) |
 | [0516-longest-palindromic-subsequence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
+| [0747-min-cost-climbing-stairs](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0747-min-cost-climbing-stairs) |
 | [1086-divisor-game](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1086-divisor-game) |
 | [1764-maximum-repeating-substring](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1764-maximum-repeating-substring) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
