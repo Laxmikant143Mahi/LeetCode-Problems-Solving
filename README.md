@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0016-3sum-closest) |
+| [0037-sudoku-solver](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0037-sudoku-solver) |
 | [0042-trapping-rain-water](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0046-permutations) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0037-sudoku-solver) |
 | [0787-sliding-puzzle](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1972-rotating-the-box) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0229-majority-element-ii) |
@@ -516,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0078-subsets) |
