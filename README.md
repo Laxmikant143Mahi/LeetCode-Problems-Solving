@@ -417,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0787-sliding-puzzle) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0904-leaf-similar-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -481,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0904-leaf-similar-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0904-leaf-similar-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3058-maximum-number-of-k-divisible-components) |
@@ -490,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0098-validate-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0515-find-largest-value-in-each-tree-row](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0904-leaf-similar-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0904-leaf-similar-trees) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
