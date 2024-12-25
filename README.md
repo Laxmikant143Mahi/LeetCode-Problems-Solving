@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0078-subsets) |
@@ -514,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
