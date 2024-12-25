@@ -2,7 +2,7 @@ import java.util.*;
 
 class Solution {
 
-    // Helper function to print the board (not necessary for the solution, but useful for debugging)
+    // Function to print the board (for debugging, not part of the solution)
     public void printBoard(char[][] board) {
         int n = board.length;
         for (int i = 0; i < n; i++) {
@@ -14,32 +14,32 @@ class Solution {
         System.out.println("---------------");
     }
 
-    // Helper function to check if placing a Queen at board[row][col] is safe
+    // Helper function to check if placing a queen is safe
     public boolean isSafe(char[][] board, int row, int col) {
         int n = board.length;
-
-        // Vertical check (left side)
+        
+        // Vertical check
         for (int j = 0; j < col; j++) {
             if (board[row][j] == 'Q') {
                 return false;
             }
         }
 
-        // Horizontal check (above)
+        // Horizontal check
         for (int i = 0; i < row; i++) {
             if (board[i][col] == 'Q') {
                 return false;
             }
         }
 
-        // Diagonal left check (above-left)
+        // Diagonal left check
         for (int i = row - 1, j = col - 1; i >= 0 && j >= 0; i--, j--) {
             if (board[i][j] == 'Q') {
                 return false;
             }
         }
 
-        // Diagonal right check (above-right)
+        // Diagonal right check
         for (int i = row - 1, j = col + 1; i >= 0 && j < n; i--, j++) {
             if (board[i][j] == 'Q') {
                 return false;
@@ -49,46 +49,50 @@ class Solution {
         return true;
     }
 
-    // Backtracking function to solve N-Queens
+    // Backtracking function to solve the N-Queens problem
     public int nQueens(char[][] board, int row) {
         int n = board.length;
+        
+        // If all queens are placed
         if (row == n) {
-            printBoard(board); // Optional: This will print the board when a solution is found
+            printBoard(board); // Optional, you can remove this if you don't need to print
             return 1;
         }
 
         int count = 0;
+        
+        // Try placing a queen in all columns of the current row
         for (int j = 0; j < n; j++) {
             if (isSafe(board, row, j)) {
-                board[row][j] = 'Q'; // Place the Queen
-                count += nQueens(board, row + 1); // Recurse for the next row
-                board[row][j] = '.'; // Backtrack
+                board[row][j] = 'Q';  // Place the queen
+                count += nQueens(board, row + 1);  // Recur for the next row
+                board[row][j] = '.';  // Backtrack
             }
         }
 
         return count;
     }
 
-    // Main function to return all solutions as a list of strings
+    // Main function to return all the solutions
     public List<List<String>> solveNQueens(int n) {
         List<List<String>> result = new ArrayList<>();
         char[][] board = new char[n][n];
         
-        // Initialize the board with empty cells
+        // Initialize the board with '.' indicating empty spaces
         for (int i = 0; i < n; i++) {
             Arrays.fill(board[i], '.');
         }
 
-        // Start solving from the first row
         solveNQueensHelper(board, 0, result);
         return result;
     }
 
-    // Helper function to collect the solutions into List<List<String>>
+    // Helper function to collect the results into List<List<String>>
     public void solveNQueensHelper(char[][] board, int row, List<List<String>> result) {
         int n = board.length;
+        
+        // If all queens are placed, convert the board to a list of strings and add to result
         if (row == n) {
-            // Convert the board to a list of strings and add to the result
             List<String> solution = new ArrayList<>();
             for (int i = 0; i < n; i++) {
                 solution.add(new String(board[i]));
@@ -97,11 +101,12 @@ class Solution {
             return;
         }
 
+        // Try placing a queen in all columns of the current row
         for (int j = 0; j < n; j++) {
             if (isSafe(board, row, j)) {
-                board[row][j] = 'Q'; // Place the Queen
-                solveNQueensHelper(board, row + 1, result); // Recurse for the next row
-                board[row][j] = '.'; // Backtrack
+                board[row][j] = 'Q';  // Place the queen
+                solveNQueensHelper(board, row + 1, result);  // Recur for the next row
+                board[row][j] = '.';  // Backtrack
             }
         }
     }
