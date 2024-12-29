@@ -1,13 +1,7 @@
 class Solution {
-    /**
-     * Computes the sum of the deepest leaves in the binary tree.
-     *
-     * @param root the root node of the binary tree.
-     * @return the sum of the deepest leaves.
-     */
     public int deepestLeavesSum(TreeNode root) {
         // Initialize a queue to perform level-order traversal
-        Deque<TreeNode> queue = new ArrayDeque<>();
+        Queue<TreeNode> queue = new LinkedList<>();
         queue.offer(root);
       
         // Variable to store the sum of the values of the deepest leaves
@@ -18,7 +12,7 @@ class Solution {
             sum = 0; // Reset sum for the current level
             // Process all nodes at the current level
             for (int size = queue.size(); size > 0; --size) {
-                TreeNode currentNode = queue.pollFirst();
+                TreeNode currentNode = queue.poll(); // Use poll() instead of pollFirst()
                 // Add the value of the current node to the sum
                 sum += currentNode.val;
                 // If the left child exists, add it to the queue for the next level
