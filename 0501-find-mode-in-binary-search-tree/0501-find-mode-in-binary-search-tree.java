@@ -32,18 +32,25 @@ class Solution {
         HashMap<Integer,Integer> map = new HashMap<>();
 
         dfs(root,map);
-        int maxCount = Integer.MIN_VALUE;
-        for(Map.Entry<Integer,Integer> entry : map.entrySet()){
-                maxCount = Math.max(maxCount, entry.getValue());
-        }
 
         ArrayList<Integer> list = new ArrayList<>();
+        int maxCount = Integer.MIN_VALUE;
         for(Map.Entry<Integer,Integer> entry : map.entrySet()){
 
-            if(entry.getValue() == maxCount){
-                list.add(entry.getKey());
-            }
+                if(entry.getValue() == maxCount){
+
+                    list.add(entry.getKey());
+                }
+                else if(entry.getValue() > maxCount){
+
+                    list.clear();
+
+                    list.add(entry.getKey());
+                    maxCount = entry.getValue();
+                }
         }
+
+    
 
         int ans[] = new int[list.size()];
 
