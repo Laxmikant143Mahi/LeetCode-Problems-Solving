@@ -458,6 +458,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0787-sliding-puzzle](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0787-sliding-puzzle) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [1005-univalued-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1254-deepest-leaves-sum) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
@@ -525,6 +526,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0904-leaf-similar-trees) |
+| [1005-univalued-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -545,6 +547,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0904-leaf-similar-trees) |
+| [1005-univalued-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1450-delete-leaves-with-a-given-value) |
@@ -568,6 +571,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0904-leaf-similar-trees) |
+| [1005-univalued-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1450-delete-leaves-with-a-given-value) |
