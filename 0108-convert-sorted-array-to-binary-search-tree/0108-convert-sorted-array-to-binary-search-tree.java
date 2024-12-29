@@ -11,7 +11,7 @@ class Solution {
         }
 
         // Find the middle element
-        int mid = start + (end - start) / 2;
+        int mid =(start+end)>>1;
 
         // Create a new TreeNode with the middle element
         TreeNode temp = new TreeNode(nums[mid]);
