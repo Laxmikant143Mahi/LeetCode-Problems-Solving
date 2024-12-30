@@ -539,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1005-univalued-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1254-deepest-leaves-sum) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1254-deepest-leaves-sum) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0904-leaf-similar-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0904-leaf-similar-trees) |
+| [0975-range-sum-of-bst](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0975-range-sum-of-bst) |
 | [1005-univalued-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1005-univalued-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1254-deepest-leaves-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1254-deepest-leaves-sum) |
@@ -614,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0975-range-sum-of-bst](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0975-range-sum-of-bst) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1427-all-elements-in-two-binary-search-trees) |
 ## Memoization
