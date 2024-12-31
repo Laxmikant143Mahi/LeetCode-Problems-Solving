@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0092-reverse-linked-list-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0092-reverse-linked-list-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
