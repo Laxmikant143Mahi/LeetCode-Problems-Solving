@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0941-sort-array-by-parity](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0941-sort-array-by-parity) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0966-binary-subarrays-with-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0966-binary-subarrays-with-sum) |
+| [1025-minimum-cost-for-tickets](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1025-minimum-cost-for-tickets) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1063-best-sightseeing-pair) |
 | [1137-height-checker](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1137-height-checker) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0747-min-cost-climbing-stairs](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0747-min-cost-climbing-stairs) |
+| [1025-minimum-cost-for-tickets](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1025-minimum-cost-for-tickets) |
 | [1063-best-sightseeing-pair](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1063-best-sightseeing-pair) |
 | [1086-divisor-game](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1086-divisor-game) |
 | [1685-stone-game-v](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1685-stone-game-v) |
