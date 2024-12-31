@@ -239,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0005-longest-palindromic-substring) |
 | [0032-longest-valid-parentheses](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0049-group-anagrams) |
+| [0290-word-pattern](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0049-group-anagrams) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0229-majority-element-ii) |
+| [0290-word-pattern](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
