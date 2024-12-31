@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0198-house-robber) |
+| [0209-minimum-size-subarray-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0238-product-of-array-except-self) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0162-find-peak-element](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0162-find-peak-element) |
+| [0209-minimum-size-subarray-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0441-arranging-coins](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -376,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
