@@ -5,7 +5,7 @@ class Solution {
         int start = 1, end = num;
 
         while (start <= end) {
-            int mid = start + (end - start) / 2; // Avoid potential overflow
+            int mid = (start + end) >> 1;
 
             if ((long) mid * mid == num) {
                 return true;
