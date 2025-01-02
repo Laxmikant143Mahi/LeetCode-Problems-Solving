@@ -2,19 +2,19 @@ class Solution {
     public int[] vowelStrings(String[] words, int[][] queries) {
         int n = words.length;
         int[] prefSum = new int[n];
+        boolean[] isVowelWord = new boolean[n];
         String vowels = "aeiou";
 
-        // Calculate prefix sum
+        // Precompute which words are vowel strings
         for (int i = 0; i < n; i++) {
-            String word = words[i];
-            boolean startsWithVowel = vowels.indexOf(word.charAt(0)) != -1;
-            boolean endsWithVowel = vowels.indexOf(word.charAt(word.length() - 1)) != -1;
+            char first = words[i].charAt(0);
+            char last = words[i].charAt(words[i].length() - 1);
+            isVowelWord[i] = vowels.indexOf(first) != -1 && vowels.indexOf(last) != -1;
+        }
 
-            if (startsWithVowel && endsWithVowel) {
-                prefSum[i] = (i == 0) ? 1 : prefSum[i - 1] + 1;
-            } else {
-                prefSum[i] = (i == 0) ? 0 : prefSum[i - 1];
-            }
+        // Compute prefix sums
+        for (int i = 0; i < n; i++) {
+            prefSum[i] = (i == 0 ? 0 : prefSum[i - 1]) + (isVowelWord[i] ? 1 : 0);
         }
 
         // Process queries
