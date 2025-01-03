@@ -251,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0049-group-anagrams) |
 | [0290-word-pattern](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0290-word-pattern) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0345-reverse-vowels-of-a-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
 | [0782-jewels-and-stones](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0782-jewels-and-stones) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0290-word-pattern) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0508-most-frequent-subtree-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0508-most-frequent-subtree-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0523-continuous-subarray-sum) |
@@ -402,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0209-minimum-size-subarray-sum) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
