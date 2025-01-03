@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0494-target-sum) |
+| [0525-contiguous-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0525-contiguous-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0645-set-mismatch) |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0229-majority-element-ii) |
 | [0290-word-pattern](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0290-word-pattern) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0525-contiguous-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0525-contiguous-array) |
 | [0645-set-mismatch](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0782-jewels-and-stones](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0782-jewels-and-stones) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0238-product-of-array-except-self) |
+| [0525-contiguous-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0525-contiguous-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0966-binary-subarrays-with-sum) |
