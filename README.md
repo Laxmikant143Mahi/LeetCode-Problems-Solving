@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1972-rotating-the-box](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2089-maximum-matrix-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2102-find-the-middle-index-in-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2164-two-best-non-overlapping-events](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1961-maximum-ice-cream-bars](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1961-maximum-ice-cream-bars) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2164-two-best-non-overlapping-events](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1755-defuse-the-bomb](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1755-defuse-the-bomb) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
