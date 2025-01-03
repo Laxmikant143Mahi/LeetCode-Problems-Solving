@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0787-sliding-puzzle](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0792-binary-search) |
+| [0852-friends-of-appropriate-ages](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0852-friends-of-appropriate-ages) |
 | [0890-lemonade-change](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0941-sort-array-by-parity](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0941-sort-array-by-parity) |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0792-binary-search) |
+| [0852-friends-of-appropriate-ages](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0852-friends-of-appropriate-ages) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0748-largest-number-at-least-twice-of-others) |
+| [0852-friends-of-appropriate-ages](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0852-friends-of-appropriate-ages) |
 | [0941-sort-array-by-parity](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1137-height-checker) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1427-all-elements-in-two-binary-search-trees) |
@@ -397,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0852-friends-of-appropriate-ages](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0852-friends-of-appropriate-ages) |
 | [0941-sort-array-by-parity](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0941-sort-array-by-parity) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
