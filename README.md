@@ -273,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -443,6 +444,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0966-binary-subarrays-with-sum) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -469,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1086-divisor-game](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1086-divisor-game) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1430-find-the-k-beauty-of-a-number](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1448-maximum-69-number](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1448-maximum-69-number) |
 | [1685-stone-game-v](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1685-stone-game-v) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1693-sum-of-all-odd-length-subarrays) |
