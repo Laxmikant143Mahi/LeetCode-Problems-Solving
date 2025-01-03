@@ -383,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0237-delete-node-in-a-linked-list) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2573-remove-nodes-from-linked-list) |
@@ -399,6 +400,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0455-assign-cookies) |
+| [0528-swapping-nodes-in-a-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0647-palindromic-substrings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0852-friends-of-appropriate-ages](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0852-friends-of-appropriate-ages) |
