@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-minimum-cost-for-tickets](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1025-minimum-cost-for-tickets) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1063-best-sightseeing-pair](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1063-best-sightseeing-pair) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1072-next-greater-node-in-linked-list) |
 | [1137-height-checker](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1137-height-checker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1319-unique-number-of-occurrences) |
@@ -384,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0203-remove-linked-list-elements) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0237-delete-node-in-a-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0528-swapping-nodes-in-a-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1072-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2573-remove-nodes-from-linked-list) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0143-reorder-list) |
 | [0933-increasing-order-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2573-remove-nodes-from-linked-list) |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0042-trapping-rain-water) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1072-next-greater-node-in-linked-list) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2573-remove-nodes-from-linked-list) |
