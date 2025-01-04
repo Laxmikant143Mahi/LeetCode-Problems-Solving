@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1744-number-of-ways-to-form-a-target-string-given-a-dictionary](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1744-number-of-ways-to-form-a-target-string-given-a-dictionary) |
 | [1764-maximum-repeating-substring](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1764-maximum-repeating-substring) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2345-minimum-number-of-operations-to-convert-time) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0187-repeated-dna-sequences) |
 | [0645-set-mismatch](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0645-set-mismatch) |
 | [1940-maximum-xor-for-each-query](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1319-unique-number-of-occurrences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -375,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [1833-find-the-highest-altitude](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1833-find-the-highest-altitude) |
 | [1940-maximum-xor-for-each-query](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1940-maximum-xor-for-each-query) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2102-find-the-middle-index-in-array) |
 | [2342-minimum-average-difference](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2358-number-of-ways-to-split-array) |
