@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0941-sort-array-by-parity](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0941-sort-array-by-parity) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0958-sort-array-by-parity-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0966-binary-subarrays-with-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1025-minimum-cost-for-tickets) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0852-friends-of-appropriate-ages](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0852-friends-of-appropriate-ages) |
 | [0941-sort-array-by-parity](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1137-height-checker) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-friends-of-appropriate-ages](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0852-friends-of-appropriate-ages) |
 | [0941-sort-array-by-parity](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0953-reverse-only-letters) |
+| [0958-sort-array-by-parity-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0958-sort-array-by-parity-ii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
