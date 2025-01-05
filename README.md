@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0181-employees-earning-more-than-their-managers](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0183-customers-who-never-order) |
+| [0197-rising-temperature](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0197-rising-temperature) |
 | [0620-not-boring-movies](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0627-swap-salary) |
 ## Array
