@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3291-find-if-array-can-be-sorted) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3324-split-the-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3324-split-the-array) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3427-special-array-ii) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3451-string-compression-iii) |
 ## String Matching
 |  |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1764-maximum-repeating-substring](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1764-maximum-repeating-substring) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -795,8 +798,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0187-repeated-dna-sequences) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0187-repeated-dna-sequences) |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+## Trie
+|  |
+| ------- |
+| [3309-count-prefix-and-suffix-pairs-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 <!---LeetCode Topics End-->
