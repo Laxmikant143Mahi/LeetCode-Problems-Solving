@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2331-intersection-of-multiple-arrays) |
 | [2342-minimum-average-difference](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2342-minimum-average-difference) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2232-adding-spaces-to-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2232-adding-spaces-to-a-string) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1524-string-matching-in-an-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1524-string-matching-in-an-array) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [1764-maximum-repeating-substring](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1764-maximum-repeating-substring) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 ## Bit Manipulation
 |  |
