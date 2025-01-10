@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0941-sort-array-by-parity](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0941-sort-array-by-parity) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0952-word-subsets](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0958-sort-array-by-parity-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0966-binary-subarrays-with-sum) |
 | [1025-minimum-cost-for-tickets](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1025-minimum-cost-for-tickets) |
@@ -295,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
 | [0782-jewels-and-stones](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0953-reverse-only-letters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -364,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0782-jewels-and-stones](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0782-jewels-and-stones) |
 | [0835-linked-list-components](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0835-linked-list-components) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [0952-word-subsets](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0952-word-subsets) |
 | [0966-binary-subarrays-with-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0966-binary-subarrays-with-sum) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
