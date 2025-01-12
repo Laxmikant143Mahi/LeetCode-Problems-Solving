@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0303-range-sum-query-immutable) |
 | [0334-increasing-triplet-subsequence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0334-increasing-triplet-subsequence) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0455-assign-cookies) |
 | [0494-target-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0494-target-sum) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0037-sudoku-solver) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0787-sliding-puzzle](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1972-rotating-the-box) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0367-valid-perfect-square) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0229-majority-element-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0645-set-mismatch) |
@@ -575,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1127-last-stone-weight](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1127-last-stone-weight) |
 | [2164-two-best-non-overlapping-events](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2164-two-best-non-overlapping-events) |
