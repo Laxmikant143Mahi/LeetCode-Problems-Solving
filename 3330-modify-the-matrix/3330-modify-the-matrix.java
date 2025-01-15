@@ -3,23 +3,20 @@ class Solution {
         int row = matrix.length;
         int col = matrix[0].length;
 
-        // Step 1: Find the maximum element in each column
-        int[] maxInColumn = new int[col];
-        for (int i = 0; i < col; i++) {
+        for (int i = 0; i < col; i++) { // Iterate column by column
             int maxElement = Integer.MIN_VALUE;
+
+            // Step 1: Find the maximum in the current column
             for (int j = 0; j < row; j++) {
                 if (matrix[j][i] != -1) {
                     maxElement = Math.max(maxElement, matrix[j][i]);
                 }
             }
-            maxInColumn[i] = maxElement; // Store the max value for the column
-        }
 
-        // Step 2: Replace all -1 in each column with the maximum value
-        for (int i = 0; i < col; i++) {
+            // Step 2: Replace -1 in the column with the maximum value
             for (int j = 0; j < row; j++) {
                 if (matrix[j][i] == -1) {
-                    matrix[j][i] = maxInColumn[i]; // Replace -1 with the column's max value
+                    matrix[j][i] = maxElement;
                 }
             }
         }
