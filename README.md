@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3291-find-if-array-can-be-sorted](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3291-find-if-array-can-be-sorted) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3324-split-the-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3324-split-the-array) |
+| [3330-modify-the-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3330-modify-the-matrix) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3427-special-array-ii) |
 | [3463-alternating-groups-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3463-alternating-groups-i) |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2722-prime-in-diagonal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2737-row-with-maximum-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3330-modify-the-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3330-modify-the-matrix) |
 ## Binary Search
 |  |
 | ------- |
