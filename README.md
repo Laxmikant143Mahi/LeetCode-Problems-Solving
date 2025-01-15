@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2716-prime-subtraction-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2716-prime-subtraction-operation) |
 | [2722-prime-in-diagonal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2722-prime-in-diagonal) |
+| [2737-row-with-maximum-ones](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2737-row-with-maximum-ones) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [2868-continuous-subarrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2868-continuous-subarrays) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2662-check-knight-tour-configuration](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2662-check-knight-tour-configuration) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2722-prime-in-diagonal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2722-prime-in-diagonal) |
+| [2737-row-with-maximum-ones](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2737-row-with-maximum-ones) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Binary Search
 |  |
