@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1319-unique-number-of-occurrences) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1505-create-target-array-in-the-given-order) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0566-reshape-the-matrix) |
 | [0787-sliding-puzzle](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1972-rotating-the-box](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2089-maximum-matrix-sum) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-friends-of-appropriate-ages](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0852-friends-of-appropriate-ages) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1046-max-consecutive-ones-iii) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -287,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0958-sort-array-by-parity-ii) |
 | [1137-height-checker](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1137-height-checker) |
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1427-all-elements-in-two-binary-search-trees) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1961-maximum-ice-cream-bars](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1961-maximum-ice-cream-bars) |
@@ -610,6 +614,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1127-last-stone-weight](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1127-last-stone-weight) |
+| [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2164-two-best-non-overlapping-events](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
