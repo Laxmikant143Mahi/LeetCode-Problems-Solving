@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0494-target-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0494-target-sum) |
 | [0523-continuous-subarray-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0525-contiguous-array) |
+| [0566-reshape-the-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0566-reshape-the-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0645-set-mismatch) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0037-sudoku-solver](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0037-sudoku-solver) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0566-reshape-the-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0566-reshape-the-matrix) |
 | [0787-sliding-puzzle](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1972-rotating-the-box](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1972-rotating-the-box) |
@@ -613,6 +615,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0566-reshape-the-matrix) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [2232-adding-spaces-to-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2299-merge-nodes-in-between-zeros) |
