@@ -5,23 +5,24 @@ class Solution {
         Stack<TreeNode> stack = new Stack<>();
 
         for (int num : nums) {
+            // Create a TreeNode for the current number
             TreeNode current = new TreeNode(num);
 
-            // Make current node the right child of nodes smaller than it
+            // Step 1: Find the left child (pop smaller elements)
             while (!stack.isEmpty() && stack.peek().val < num) {
                 current.left = stack.pop();
             }
 
-            // Make the top of the stack the parent of the current node
+            // Step 2: The top of the stack (if it exists) is the parent
             if (!stack.isEmpty()) {
                 stack.peek().right = current;
             }
 
-            // Push the current node onto the stack
+            // Step 3: Push the current node into the stack
             stack.push(current);
         }
 
-        // The root is the bottom-most element in the stack
+        // Step 4: The bottom-most node in the stack is the root of the tree
         return stack.firstElement();
     }
 }
