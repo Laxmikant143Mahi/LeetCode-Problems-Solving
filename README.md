@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [1524-string-matching-in-an-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1524-string-matching-in-an-array) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0787-sliding-puzzle) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1677-matrix-diagonal-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1677-matrix-diagonal-sum) |
 | [1972-rotating-the-box](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2089-maximum-matrix-sum) |
@@ -625,6 +627,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1127-last-stone-weight](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1127-last-stone-weight) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2164-two-best-non-overlapping-events](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -665,6 +668,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1005-univalued-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1254-deepest-leaves-sum) |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -675,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3189-find-champion-ii) |
@@ -683,6 +688,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Shortest Path
 |  |
 | ------- |
+| [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 ## Brainteaser
