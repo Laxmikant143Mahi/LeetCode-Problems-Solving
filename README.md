@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2662-check-knight-tour-configuration](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2662-check-knight-tour-configuration) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2662-check-knight-tour-configuration](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2662-check-knight-tour-configuration) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2722-prime-in-diagonal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2722-prime-in-diagonal) |
 | [2737-row-with-maximum-ones](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2737-row-with-maximum-ones) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2634-minimum-common-value](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
+| [2685-first-completely-painted-row-or-column](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2685-first-completely-painted-row-or-column) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3227-find-missing-and-repeated-values](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3227-find-missing-and-repeated-values) |
