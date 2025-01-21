@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-maximum-matrix-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2089-maximum-matrix-sum) |
 | [2102-find-the-middle-index-in-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2102-find-the-middle-index-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2145-grid-game](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2164-two-best-non-overlapping-events](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2164-two-best-non-overlapping-events) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1677-matrix-diagonal-sum) |
 | [1972-rotating-the-box](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1972-rotating-the-box) |
 | [2089-maximum-matrix-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2089-maximum-matrix-sum) |
+| [2145-grid-game](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2145-grid-game) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2662-check-knight-tour-configuration](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2662-check-knight-tour-configuration) |
@@ -474,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2102-find-the-middle-index-in-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2102-find-the-middle-index-in-array) |
+| [2145-grid-game](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2145-grid-game) |
 | [2342-minimum-average-difference](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2342-minimum-average-difference) |
 | [2358-number-of-ways-to-split-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2358-number-of-ways-to-split-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
