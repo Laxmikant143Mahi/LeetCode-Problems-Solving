@@ -679,6 +679,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0787-sliding-puzzle](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0787-sliding-puzzle) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0820-find-eventual-safe-states](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0820-find-eventual-safe-states) |
 | [1005-univalued-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1005-univalued-binary-tree) |
 | [1254-deepest-leaves-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1254-deepest-leaves-sum) |
 | [1396-count-servers-that-communicate](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1396-count-servers-that-communicate) |
@@ -693,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0820-find-eventual-safe-states](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -803,6 +805,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0799-minimum-distance-between-bst-nodes) |
+| [0820-find-eventual-safe-states](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0820-find-eventual-safe-states) |
 | [0904-leaf-similar-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0904-leaf-similar-trees) |
 | [0933-increasing-order-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0975-range-sum-of-bst) |
@@ -916,4 +919,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1396-count-servers-that-communicate) |
+## Topological Sort
+|  |
+| ------- |
+| [0820-find-eventual-safe-states](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0820-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
