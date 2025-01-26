@@ -1,35 +1,31 @@
 class Solution {
     public String reversePrefix(String word, char ch) {
-        
-        StringBuilder sb = new StringBuilder();
+        char[] arr = word.toCharArray();
+        int index = -1;
 
-        int index=-1;
-        Stack<Character> stack = new Stack<>();
-
-        for(int i=0; i<word.length(); i++){
-
-            if(ch!=word.charAt(i)){
-                stack.push(word.charAt(i));
-            }else{
-                stack.push(ch);
-                index=i;
+        // Find the index of the first occurrence of 'ch'
+        for (int i = 0; i < arr.length; i++) {
+            if (arr[i] == ch) {
+                index = i;
                 break;
             }
         }
-        if(index==-1){
+
+        // If 'ch' is not found, return the original word
+        if (index == -1) {
             return word;
         }
 
-        for(int i=0; i<=index; i++){
-            sb.append(stack.pop());
-
+        // Reverse the prefix using two pointers
+        int left = 0, right = index;
+        while (left < right) {
+            char temp = arr[left];
+            arr[left] = arr[right];
+            arr[right] = temp;
+            left++;
+            right--;
         }
-        for(int i=index+1; i<word.length(); i++){
 
-            sb.append(word.charAt(i));
-        }
-
-        return sb.toString();
-        
+        return new String(arr);
     }
 }
