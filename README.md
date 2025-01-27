@@ -687,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-deepest-leaves-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1254-deepest-leaves-sum) |
 | [1396-count-servers-that-communicate](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1396-count-servers-that-communicate) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1558-course-schedule-iv) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
@@ -699,6 +700,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0820-find-eventual-safe-states) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1558-course-schedule-iv](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -819,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1427-all-elements-in-two-binary-search-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1450-delete-leaves-with-a-given-value](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1450-delete-leaves-with-a-given-value) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1558-course-schedule-iv](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2662-check-knight-tour-configuration) |
@@ -928,5 +931,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0820-find-eventual-safe-states](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0820-find-eventual-safe-states) |
+| [1558-course-schedule-iv](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 <!---LeetCode Topics End-->
