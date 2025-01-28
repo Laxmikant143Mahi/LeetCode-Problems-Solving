@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2562-count-ways-to-build-good-strings) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Matrix
 |  |
 | ------- |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2509-minimize-xor](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2509-minimize-xor) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2716-prime-subtraction-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2716-prime-subtraction-operation) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Sorting
 |  |
 | ------- |
@@ -445,6 +448,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-split-the-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3324-split-the-array) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Counting
 |  |
 | ------- |
@@ -487,6 +491,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3427-special-array-ii) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Linked List
 |  |
 | ------- |
