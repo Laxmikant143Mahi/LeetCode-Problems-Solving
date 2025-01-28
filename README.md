@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3721-count-mentions-per-user](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3721-count-mentions-per-user) |
+| [3737-paint-house-iv](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3737-paint-house-iv) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Dynamic Programming
 |  |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2554-minimum-total-distance-traveled) |
 | [2562-count-ways-to-build-good-strings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2562-count-ways-to-build-good-strings) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3737-paint-house-iv](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3737-paint-house-iv) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Matrix
 |  |
