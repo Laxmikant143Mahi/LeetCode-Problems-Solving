@@ -507,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0092-reverse-linked-list-ii) |
@@ -656,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0407-trapping-rain-water-ii) |
@@ -767,6 +769,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0023-merge-k-sorted-lists) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
@@ -969,4 +972,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0820-find-eventual-safe-states](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0820-find-eventual-safe-states) |
 | [1558-course-schedule-iv](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
