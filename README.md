@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3324-split-the-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3324-split-the-array) |
 | [3330-modify-the-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3330-modify-the-matrix) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3427-special-array-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3429-special-array-i) |
