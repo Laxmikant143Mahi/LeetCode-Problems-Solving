@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0645-set-mismatch) |
 | [0654-maximum-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0654-maximum-binary-tree) |
+| [0661-image-smoother](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0661-image-smoother) |
 | [0689-maximum-sum-of-3-non-overlapping-subarrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0689-maximum-sum-of-3-non-overlapping-subarrays) |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0713-subarray-product-less-than-k) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0745-find-smallest-letter-greater-than-target) |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0407-trapping-rain-water-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0407-trapping-rain-water-ii) |
 | [0566-reshape-the-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0566-reshape-the-matrix) |
+| [0661-image-smoother](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0661-image-smoother) |
 | [0787-sliding-puzzle](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0787-sliding-puzzle) |
 | [0854-making-a-large-island](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0854-making-a-large-island) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
