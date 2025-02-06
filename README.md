@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1137-height-checker](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1137-height-checker) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1319-unique-number-of-occurrences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1396-count-servers-that-communicate) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
@@ -449,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1319-unique-number-of-occurrences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1364-tuple-with-same-product) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1502-construct-k-palindrome-strings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -477,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0229-majority-element-ii) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
+| [1364-tuple-with-same-product](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
