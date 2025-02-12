@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2465-shifting-letters-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2465-shifting-letters-ii) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2554-minimum-total-distance-traveled) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2331-intersection-of-multiple-arrays) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2554-minimum-total-distance-traveled](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2554-minimum-total-distance-traveled) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2331-intersection-of-multiple-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2434-design-a-number-container-system](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -693,6 +696,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2434-design-a-number-container-system](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
