@@ -368,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
 | [0782-jewels-and-stones](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0812-rotate-string) |
+| [0874-backspace-string-compare](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0953-reverse-only-letters) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -572,6 +573,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0852-friends-of-appropriate-ages](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0852-friends-of-appropriate-ages) |
+| [0874-backspace-string-compare](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0941-sort-array-by-parity) |
 | [0953-reverse-only-letters](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0953-reverse-only-letters) |
@@ -655,6 +657,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0143-reorder-list) |
 | [0654-maximum-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0654-maximum-binary-tree) |
+| [0874-backspace-string-compare](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1072-next-greater-node-in-linked-list) |
@@ -713,6 +716,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0566-reshape-the-matrix) |
+| [0874-backspace-string-compare](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0874-backspace-string-compare) |
 | [1505-create-target-array-in-the-given-order](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2232-adding-spaces-to-a-string) |
