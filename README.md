@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0787-sliding-puzzle](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0787-sliding-puzzle) |
 | [0792-binary-search](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0792-binary-search) |
 | [0835-linked-list-components](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0835-linked-list-components) |
+| [0841-shortest-distance-to-a-character](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-friends-of-appropriate-ages](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0852-friends-of-appropriate-ages) |
 | [0854-making-a-large-island](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0854-making-a-large-island) |
 | [0890-lemonade-change](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0890-lemonade-change) |
@@ -369,6 +370,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
 | [0782-jewels-and-stones](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0812-rotate-string) |
+| [0841-shortest-distance-to-a-character](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0953-reverse-only-letters) |
@@ -576,6 +578,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0647-palindromic-substrings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0841-shortest-distance-to-a-character](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-friends-of-appropriate-ages](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0852-friends-of-appropriate-ages) |
 | [0874-backspace-string-compare](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0908-middle-of-the-linked-list) |
