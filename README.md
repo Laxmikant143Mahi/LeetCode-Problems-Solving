@@ -405,6 +405,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2345-minimum-number-of-operations-to-convert-time) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2465-shifting-letters-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2580-circular-sentence) |
@@ -486,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2434-design-a-number-container-system](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -519,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-construct-string-with-repeat-limit](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2372-rearrange-characters-to-make-target-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3324-split-the-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3324-split-the-array) |
