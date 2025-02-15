@@ -389,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1764-maximum-repeating-substring) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2032-largest-odd-number-in-string) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2331-intersection-of-multiple-arrays) |
@@ -501,6 +503,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1396-count-servers-that-communicate](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1396-count-servers-that-communicate) |
 | [1502-construct-k-palindrome-strings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1502-construct-k-palindrome-strings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2331-intersection-of-multiple-arrays) |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1573-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1573-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1755-defuse-the-bomb](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1755-defuse-the-bomb) |
+| [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
