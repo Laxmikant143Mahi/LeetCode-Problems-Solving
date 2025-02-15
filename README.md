@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2102-find-the-middle-index-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2122-count-special-quadruplets](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2122-count-special-quadruplets) |
 | [2145-grid-game](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2145-grid-game) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2164-two-best-non-overlapping-events](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2164-two-best-non-overlapping-events) |
@@ -478,6 +479,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2059-unique-length-3-palindromic-subsequences) |
+| [2122-count-special-quadruplets](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2122-count-special-quadruplets) |
 | [2300-construct-string-with-repeat-limit](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2300-construct-string-with-repeat-limit) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2331-intersection-of-multiple-arrays) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -1045,4 +1047,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-product-of-the-last-k-numbers](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1477-product-of-the-last-k-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [2122-count-special-quadruplets](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2122-count-special-quadruplets) |
 <!---LeetCode Topics End-->
