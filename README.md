@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1502-construct-k-palindrome-strings) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1524-string-matching-in-an-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1524-string-matching-in-an-array) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
@@ -1015,6 +1016,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0090-subsets-ii) |
 | [0494-target-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0494-target-sum) |
 | [1160-letter-tile-possibilities](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1160-letter-tile-possibilities) |
+| [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Design
