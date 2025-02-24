@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2533-bitwise-xor-of-all-pairings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2554-minimum-total-distance-traveled) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2634-minimum-common-value](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -798,6 +799,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2662-check-knight-tour-configuration](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2662-check-knight-tour-configuration) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -812,6 +814,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [3189-find-champion-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3189-find-champion-ii) |
@@ -907,6 +910,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2384-root-equals-sum-of-children](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2384-root-equals-sum-of-children) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Depth-First Search
@@ -948,6 +952,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1558-course-schedule-iv](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1558-course-schedule-iv) |
 | [2246-maximum-employees-to-be-invited-to-a-meeting](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2246-maximum-employees-to-be-invited-to-a-meeting) |
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2662-check-knight-tour-configuration) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
