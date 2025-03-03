@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2232-adding-spaces-to-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2232-adding-spaces-to-a-string) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2331-intersection-of-multiple-arrays) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2128-reverse-prefix-of-word](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2128-reverse-prefix-of-word) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2551-apply-operations-to-an-array) |
 | [2634-minimum-common-value](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2634-minimum-common-value) |
@@ -777,6 +779,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1505-create-target-array-in-the-given-order](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1505-create-target-array-in-the-given-order) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2232-adding-spaces-to-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2232-adding-spaces-to-a-string) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2551-apply-operations-to-an-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2551-apply-operations-to-an-array) |
