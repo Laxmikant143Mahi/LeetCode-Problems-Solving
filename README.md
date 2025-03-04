@@ -689,6 +689,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1685-stone-game-v](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1685-stone-game-v) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2032-largest-odd-number-in-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2032-largest-odd-number-in-string) |
 | [2233-number-of-smooth-descent-periods-of-a-stock](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2233-number-of-smooth-descent-periods-of-a-stock) |
