@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2345-minimum-number-of-operations-to-convert-time](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2345-minimum-number-of-operations-to-convert-time) |
 | [2372-rearrange-characters-to-make-target-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2372-rearrange-characters-to-make-target-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2465-shifting-letters-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2465-shifting-letters-ii) |
 | [2580-circular-sentence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2580-circular-sentence) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
@@ -662,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2599-take-k-of-each-character-from-left-and-right](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2599-take-k-of-each-character-from-left-and-right) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2866-longest-even-odd-subarray-with-threshold) |
