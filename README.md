@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3427-special-array-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3427-special-array-ii) |
 | [3429-special-array-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3429-special-array-i) |
 | [3463-alternating-groups-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3483-alternating-groups-ii) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -674,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3463-alternating-groups-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3463-alternating-groups-i) |
+| [3483-alternating-groups-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3483-alternating-groups-ii) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Math
