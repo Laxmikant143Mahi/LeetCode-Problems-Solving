@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3643-zero-array-transformation-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3643-zero-array-transformation-ii) |
 | [3721-count-mentions-per-user](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3721-count-mentions-per-user) |
 | [3737-paint-house-iv](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3737-paint-house-iv) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3267-find-longest-special-substring-that-occurs-thrice-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3267-find-longest-special-substring-that-occurs-thrice-i) |
 | [3427-special-array-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3643-zero-array-transformation-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -585,6 +587,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2465-shifting-letters-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3427-special-array-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3427-special-array-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3643-zero-array-transformation-ii) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Linked List
 |  |
