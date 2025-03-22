@@ -859,6 +859,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2662-check-knight-tour-configuration](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2662-check-knight-tour-configuration) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2793-count-the-number-of-complete-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 | [3517-shortest-distance-after-road-addition-queries-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3517-shortest-distance-after-road-addition-queries-i) |
 ## Graph
@@ -874,6 +875,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
+| [2793-count-the-number-of-complete-components](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2793-count-the-number-of-complete-components) |
 | [3189-find-champion-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3189-find-champion-ii) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
@@ -1012,6 +1014,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2493-reverse-odd-levels-of-binary-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2493-reverse-odd-levels-of-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2662-check-knight-tour-configuration) |
+| [2793-count-the-number-of-complete-components](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2793-count-the-number-of-complete-components) |
 | [3058-maximum-number-of-k-divisible-components](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3058-maximum-number-of-k-divisible-components) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
 ## Binary Tree
@@ -1128,6 +1131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2793-count-the-number-of-complete-components](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
 |  |
