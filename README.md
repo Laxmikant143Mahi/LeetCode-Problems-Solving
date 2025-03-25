@@ -209,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 | [3643-zero-array-transformation-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3643-zero-array-transformation-ii) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3721-count-mentions-per-user](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3721-count-mentions-per-user) |
 | [3737-paint-house-iv](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3737-paint-house-iv) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3751-maximum-frequency-after-subarray-operation) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2891-maximum-beauty-of-an-array-after-applying-operation](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2891-maximum-beauty-of-an-array-after-applying-operation) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3291-find-if-array-can-be-sorted) |
 | [3430-count-days-without-meetings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3430-count-days-without-meetings) |
+| [3657-check-if-grid-can-be-cut-into-sections](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3721-count-mentions-per-user](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3721-count-mentions-per-user) |
 ## String
 |  |
