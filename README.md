@@ -169,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2554-minimum-total-distance-traveled](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2634-minimum-common-value](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2634-minimum-common-value) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2662-check-knight-tour-configuration](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2662-check-knight-tour-configuration) |
 | [2685-first-completely-painted-row-or-column](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2685-first-completely-painted-row-or-column) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -386,6 +388,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2554-minimum-total-distance-traveled](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2554-minimum-total-distance-traveled) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -683,6 +686,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2265-partition-array-according-to-given-pivot](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2551-apply-operations-to-an-array](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2551-apply-operations-to-an-array) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2634-minimum-common-value](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2634-minimum-common-value) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -815,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2412-minimum-amount-of-time-to-fill-cups](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2412-minimum-amount-of-time-to-fill-cups) |
 | [2434-design-a-number-container-system](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2692-take-gifts-from-the-richest-pile](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2692-take-gifts-from-the-richest-pile) |
 | [2695-find-score-of-an-array-after-marking-all-elements](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2695-find-score-of-an-array-after-marking-all-elements) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
@@ -873,6 +878,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2558-minimum-number-of-operations-to-sort-a-binary-tree-by-level) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2662-check-knight-tour-configuration](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2662-check-knight-tour-configuration) |
 | [2711-minimum-time-to-visit-a-cell-in-a-grid](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2711-minimum-time-to-visit-a-cell-in-a-grid) |
 | [2793-count-the-number-of-complete-components](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2793-count-the-number-of-complete-components) |
@@ -1149,6 +1155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0854-making-a-large-island](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1396-count-servers-that-communicate) |
 | [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
+| [2588-maximum-number-of-points-from-grid-queries](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2588-maximum-number-of-points-from-grid-queries) |
 | [2793-count-the-number-of-complete-components](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2793-count-the-number-of-complete-components) |
 | [3348-minimum-cost-walk-in-weighted-graph](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/3348-minimum-cost-walk-in-weighted-graph) |
 ## Topological Sort
