@@ -332,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0561-array-partition) |
+| [0768-partition-labels](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0768-partition-labels) |
 | [0890-lemonade-change](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0890-lemonade-change) |
 | [1448-maximum-69-number](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1448-maximum-69-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1502-construct-k-palindrome-strings) |
@@ -407,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0516-longest-palindromic-subsequence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
+| [0768-partition-labels](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0782-jewels-and-stones) |
 | [0812-rotate-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0841-shortest-distance-to-a-character) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0575-distribute-candies) |
 | [0645-set-mismatch](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0768-partition-labels](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0782-jewels-and-stones) |
 | [0835-linked-list-components](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0835-linked-list-components) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -660,6 +663,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [0647-palindromic-substrings](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0768-partition-labels](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0768-partition-labels) |
 | [0841-shortest-distance-to-a-character](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0841-shortest-distance-to-a-character) |
 | [0852-friends-of-appropriate-ages](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0852-friends-of-appropriate-ages) |
 | [0874-backspace-string-compare](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0874-backspace-string-compare) |
