@@ -14,18 +14,22 @@
  * }
  */
 class Solution {
-    public int findMinDepth(TreeNode root){
-
-        if(root==null)
+    public int findMinDepth(TreeNode root) {
+        if (root == null)
             return 0;
 
-        if(root.left==null)
-            return 1+findMinDepth(root.right);
-        if(root.right==null)
-            return 1+findMinDepth(root.left);
+        // If left is null, go right only
+        if (root.left == null)
+            return 1 + findMinDepth(root.right);
 
-        return 1+Math.min(findMinDepth(root.left), findMinDepth(root.right));
+        // If right is null, go left only
+        if (root.right == null)
+            return 1 + findMinDepth(root.left);
+
+        // Both children exist — choose min of both
+        return 1 + Math.min(findMinDepth(root.left), findMinDepth(root.right));
     }
+
 
     public int minDepth(TreeNode root) {
         
