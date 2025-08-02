@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0187-repeated-dna-sequences) |
@@ -1165,6 +1167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0684-redundant-connection](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0684-redundant-connection) |
 | [0854-making-a-large-island](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0854-making-a-large-island) |
 | [1396-count-servers-that-communicate](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1396-count-servers-that-communicate) |
