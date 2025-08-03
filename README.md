@@ -423,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0812-rotate-string) |
 | [0841-shortest-distance-to-a-character](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0841-shortest-distance-to-a-character) |
 | [0874-backspace-string-compare](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0874-backspace-string-compare) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0952-word-subsets](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0953-reverse-only-letters) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -530,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0768-partition-labels) |
 | [0782-jewels-and-stones](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0782-jewels-and-stones) |
 | [0835-linked-list-components](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0835-linked-list-components) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [0952-word-subsets](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0952-word-subsets) |
@@ -583,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0229-majority-element-ii) |
+| [0920-uncommon-words-from-two-sentences](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0920-uncommon-words-from-two-sentences) |
 | [0950-x-of-a-kind-in-a-deck-of-cards](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0950-x-of-a-kind-in-a-deck-of-cards) |
 | [1160-letter-tile-possibilities](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/1364-tuple-with-same-product) |
