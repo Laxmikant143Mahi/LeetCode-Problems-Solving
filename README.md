@@ -300,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0162-find-peak-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0441-arranging-coins) |
 | [0713-subarray-product-less-than-k](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0713-subarray-product-less-than-k) |
@@ -1201,4 +1202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2122-count-special-quadruplets](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2122-count-special-quadruplets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/2215-finding-3-digit-even-numbers) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Laxmikant143Mahi/LeetCode-Problems-Solving/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
